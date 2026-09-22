@@ -1,4 +1,4 @@
-# 📦 InvetarioMorena
+# Inventario y Distribución de Ayudas
 
 Sistema de **inventario y registro de ayudas** para la Casa de Morena.  
 Permite gestionar productos (como medicinas, sillas de ruedas, etc.) y registrar a quién se entregan, con foto y datos del beneficiario.
@@ -26,5 +26,6 @@ Permite gestionar productos (como medicinas, sillas de ruedas, etc.) y registrar
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/Moiseshdz/InvetarioMorena.git
+   git clone https://github.com/Moiseshdz/inventory-aid-distribution-system.git
 
+   ```
